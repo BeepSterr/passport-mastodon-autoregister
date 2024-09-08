@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const passport = require('passport');
 const FsMap = require("./fsmap");
-const MastodonStrategy = require('./lib/index').Strategy;
+const MastodonStrategy = require('./lib/index').MastodonStrategy;
 const session = require('express-session');
 
 let sess = session({
