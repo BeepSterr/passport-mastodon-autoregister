@@ -1,5 +1,5 @@
 # passport-mastodon-autoregister
-Passport strategy for authentication with any Mastodon instance through the OAuth 2.0.
+Passport strategy for authentication with any Mastodon instance through OAuth 2.0.
 This strategy creates a oAuth App on the Mastodon instance and passes the required details to [passport-oauth2](https://github.com/jaredhanson/passport-oauth2).
 
 ## Installation
