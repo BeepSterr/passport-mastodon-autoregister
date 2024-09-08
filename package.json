@@ -1,0 +1,20 @@
+{
+  "name": "passport-mastodon-autoregister",
+  "version": "1.0.0",
+  "description": "oAuth2 for Mastodon with registering of provider included",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "passport-oauth2": "^1.8.0"
+  },
+  "devDependencies": {
+    "express-session": "^1.18.0",
+    "express": "^4.19.2",
+    "passport": "^0.7.0"
+  }
+}
