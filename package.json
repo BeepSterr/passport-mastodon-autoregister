@@ -1,6 +1,6 @@
 {
   "name": "passport-mastodon-autoregister",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "oAuth2 for any Mastodon instance by auto-registering the oAuth Apps",
   "main": "lib/index.js",
   "scripts": {},
